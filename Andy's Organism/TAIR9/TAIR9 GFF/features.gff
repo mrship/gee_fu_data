@@ -57,4 +57,4 @@ Chr1	TAIR9	three_prime_UTR	6790	7069	.	-	.	Parent=AT1G01020.2
 Chr1	TAIR9	exon	6790	7069	.	-	.	Parent=AT1G01020.2
 Chr1	TAIR9	three_prime_UTR	11649	11863	.	-	.	Parent=AT1G01030.1
 Chr1	TAIR9	exon	3631	3913	.	+	.	Parent=AT1G01010.1
-Chr1	TAIR9	gene	3631	5899	.	+	.	ID=AT1G01010;Note=protein_coding_gene;Name=AT1G01010
+Chr1	TAIR9	gene	3631	5899	.	-	.	ID=AT1G01010;Note=protein_coding_gene;Name=AT1G01010
