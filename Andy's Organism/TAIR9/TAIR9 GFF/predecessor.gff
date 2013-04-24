@@ -1,5 +1,6 @@
 Chr1	TAIR9	exon	3631	3913	.	-	.	old_id=61;Parent=AT1G01010.1
 Chr1	TAIR9	exon	3631	3913	.	+	.	old_id=3;Parent=AT1G01010.1
+Chr1	TAIR9	gene	3631	5899	.	-	.	old_id=125;ID=AT1G01010;Note=protein_coding_gene;Name=AT1G01010
 Chr1	TAIR9	gene	3631	5899	.	+	.	old_id=124;ID=AT1G01010;Note=protein_coding_gene;Name=AT1G01010
 Chr1	TAIR9	gene	3631	5899	.	-	.	old_id=123;ID=AT1G01010;Note=protein_coding_gene;Name=AT1G01010
 Chr1	TAIR9	gene	3631	5899	.	+	.	old_id=1;ID=AT1G01010;Note=protein_coding_gene;Name=AT1G01010
